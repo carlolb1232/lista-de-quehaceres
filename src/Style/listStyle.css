@@ -1,0 +1,21 @@
+.chore-container{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
+
+.chore-container button{
+  box-sizing: border-box;
+  height: 30px;
+  padding: 5px 20px;
+  background: black;
+  border: none;
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.chore-container p{
+  font-weight: bold;
+}
